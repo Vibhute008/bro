@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Raulo Enterprises Dashboard",
+  "description": "A real-time, multi-panel dashboard for Raulo Enterprises to monitor sales, tech projects, and telecalling activities across different departments, with role-based access for Boss, Tech Lead, Sales Manager, and Telecaller.",
+  "requestFramePermissions": []
+}
